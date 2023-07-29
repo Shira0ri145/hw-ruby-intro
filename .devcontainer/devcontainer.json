@@ -4,7 +4,7 @@
 	"name": "Ruby",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"build": {
-		// Path is relataive to the devcontainer.json file.
+		// Path is relataive to the devcontainer.json file. 
 		"dockerfile": "Dockerfile"
 		},
 
